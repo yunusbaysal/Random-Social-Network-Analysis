@@ -1,5 +1,5 @@
 # Random-Social-Network-Analysis
-you need to install Python Networkx Library to run the program.
+
 
 <img src ="SampleOutput/Figure_1.png" >
 <img src ="SampleOutput/Figure_2.png" >
@@ -11,7 +11,7 @@ you need to install Python Networkx Library to run the program.
 <img src ="SampleOutput/Figure_8.png" >
 
 ## Installation
-
+you need to install Python Networkx Library to run the program.
 Use the package manager [pip](https://pypi.org/project/networkx/) to install Networkx.
 
 ```bash
